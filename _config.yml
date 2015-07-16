@@ -1,0 +1,46 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: South Swallows
+  email: southswallows@gmail.com
+  link: southswallows.github.io
+  weibo: http://weibo.com/southswallows
+  github: http://github.com/southswallows
+  instagram: http://instagram/vampirebruce
+
+# 站点信息
+title: 郑燕南的博客
+description: Stay hungry Stay foolish
+url: http://yannan.me/
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/img/southswallows-logo.png
+favicon: /public/img/southswallows-logo.png
+
+# google analytics 设置
+ga:
+  id:  
+  url: yannan.me
+
+# disqus 设置
+disqus:
+  shortname: southswallows
+
+# 主题设置，自动激活某个标签
+active: 读书
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Mac
+  - LaTeX
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档

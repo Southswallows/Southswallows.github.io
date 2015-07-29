@@ -26,7 +26,7 @@ description:
 
 ###2. 双击mysqlxxx.dmg文件
 
-**无需设置，一步一步进行下去，知道Finish**
+**无需设置，一步一步进行下去，直到Finish**
 
 **MySQL Community Server安装完毕,可在系统偏好设置里发现MySQL的图标**
 

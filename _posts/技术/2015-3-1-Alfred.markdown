@@ -1,0 +1,146 @@
+---
+layout: post
+category: 技术
+title: Alfred使用
+tags: Mac
+---
+-----
+
+#Alfred－－－os x上绝对神器
+	
+*真正的解放你的双手*
+
+
+Alfred－os x系统下快速启动、搜索、控制....
+![1](/public/img/posts/Alfred.png)
+
+###下载安装
+1. `Apple Store`下载安装，但是版本比较滞后，很多功能没有。
+2. 官网安装，官网请戳[Alfred](http://www.alfredapp.com)。直接点击下载`Alfred 2`，下载后直接安装就ok。
+
+###使用
+
+- 快速打开app：**option＋space**
+
+你会看到这样的界面－－这界面将陪伴你－－让你欲罢不能地爱上它
+
+![1](/public/img/posts/Alfred1.png)
+
+- 基本的功能包含这些
+
+![1](/public/img/posts/Alfred2.png)
+
+**如果你想搜索app、文件、文件夹、甚至在web上搜索，直接在Alfred输入框中输入想要的内容即可**
+
+- 直接当做计算器使用。
+- Alfred还可以搜索文件，支持find、open、in三个命令(直接输入)。find是搜索本地文件，open是打开本地文件，而in呢，是搜索文件内的内容。
+- 在搜索文件的时候，单击shift键可以看文件基本信息
+- 操作Shell：输入>即可直接运行shell命令
+- 输入iTunes，会出现一个 iTunes mini play
+	- play 播放
+	- pause 暂停
+	- next  下一首
+	- previous 前一首
+	- random  随机
+- 输入email，后面跟邮件地址，可以直接打开写邮件的界面
+
+`注意：`这些功能都是免费版可以实现的，具体使用情况可以参照软件里面的**Features**
+
+------
+
+**付费版还有更加强大的功能，**
+
+**付费版可以让你安装WorkFlows，这个工作流可以加快你的工作速度，让效率层层地往上长！**
+
+[付费版请点击](http://www.alfredapp.com/#download)
+
+**WorkFlows有很多，官网有收集整理优秀的WorkFlows，也可以自己写WorkFlows**
+[下载安装WorkFlows请点击](http://www.alfredforum.com)
+
+###笔者购买了付费版的，安装一些WorkFlows
+
+![1](/public/img/posts/Alfred3.png)
+
+**下面是一些使用方法**
+
+####系统级别
+- 进入屏保 **screensaver**
+- 打开废纸篓 **trash**
+- 清空废纸篓 **emptytrash**
+- 注销 **logout**
+- 睡眠 **sleep**
+- 锁定 **lock**
+- 强制关机 **shutdown**
+
+-----
+
+
+####应用程序级别
+- 隐藏app **hide**
+- 关闭app（后台运行） **quit**
+- 关闭app（完全关闭） **forcequit** 
+- 关闭所有app **quitall**
+
+-------
+
+####网页搜索
+- 在谷歌搜索 google 
+- 在谷歌image搜索 images
+- 在谷歌地图搜索 maps
+- 翻译 translate
+- 打开gmail  **gmail**
+- 打开谷歌drive  **drive**
+- 打开twitter  **twitter**
+- 在维基百科中搜索 **wiki**
+- 在网站中搜索天气  **weather**
+- 在duck中搜索 **duck**
+
+-----
+
+####豆瓣workflows
+- 输入**book**在豆瓣里面进行书本的搜索
+- 输入**music**在豆瓣中进行音乐的搜索
+- 输入**movie**在豆瓣中进行电影的搜索
+
+------
+
+####知乎workflows
+- 输入**zh**＋搜索内容，在知乎中进行问题的搜索
+- 输入**zhdaily** 阅读知乎日报的内容
+
+-----
+
+####pocket workflows
+- 输入**pocket** 在pocket文件夹里搜索内容
+- 输入**pocket＋fn** 复制pocket文章的链接
+- 输入**pocket＋ctrl** visit and archive
+- 输入**pocket＋command** 删除链接
+
+------
+
+####evernote workflows
+- 输入**ens** 在所有的evernote文件中搜索
+- 输入**ens @**在一个选择的evernote文件夹中搜索
+- 输入**ens ＃**在某个标签下搜索
+- 输入**ent**只搜索标题
+- 输入**enr**搜索提醒
+- 输入**entodo**搜索to－do记事本
+- **return键**打开note
+- **option键**设置为提醒
+- **control键**复制note的文本内容给top most app
+
+
+----
+
+####uni call workflows
+- **calls** skype
+- **callf** facetime
+- **callp** 
+- **callm** 发送message
+
+
+
+
+
+
+
